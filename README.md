@@ -1,7 +1,7 @@
 
 # Face Tracker
 
-Real time face detection model from scratch passing through collecting data, label it, augmentation and finally building a deep learnig model using state of art VGG-16.
+Real time face detection model from scratch passing through collecting data, label it, augmentation and finally building a deep learning model using state of art VGG-16.
 
 ## Defenition
 
